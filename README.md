@@ -5,13 +5,13 @@ This Read.Me provides an overview of the Manhattan vacation rental market analys
 ### Introduction
 
 #### 1 - Explore and Filter the Data
--Explore the Data
+* Explore the Data
 
--Prepare Tabs for Documentation
+* Prepare Tabs for Documentation
 
--Organize the Spreadsheet
+* Organize the Spreadsheet
 
--Filter Listings
+* Filter Listings
 
 #### 2 - Which Type of Properties Should Be Targeted?
 -Estimating Rental Activity
@@ -56,16 +56,16 @@ This Read.Me provides an overview of the Manhattan vacation rental market analys
 You’ve been hired by a consulting company to analyze the vacation rental market in the Manhattan borough of New York City for a client interested in investing in properties.
 
 #### 1 - Explore and Filter the Data
--Explore the Data
+Explore the Data
   * Download the NYC Airbnb dataset and review the sheets.
   
--Prepare Tabs for Documentation
+Prepare Tabs for Documentation
   * Document the data cleaning steps and versions of the final project file.
   
--Organize the Spreadsheet
+Organize the Spreadsheet
   * Freeze rows and columns, resize widths, and add filters.
   
--Filter Listings
+Filter Listings
   * Remove irrelevant listings, filter by minimum night requirement, and inactive rentals.
   
 #### 2 - Which Type of Properties Should Be Targeted?
