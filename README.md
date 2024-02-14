@@ -14,41 +14,41 @@ This Read.Me provides an overview of the Manhattan vacation rental market analys
 * Filter Listings
 
 #### 2 - Which Type of Properties Should Be Targeted?
--Estimating Rental Activity
+* Estimating Rental Activity
 
--Attractive Neighborhoods
+* Attractive Neighborhoods
 
--Popular Property Sizes
+* Popular Property Sizes
 
 #### 3 - Calculating Occupancy
--Preparing Data
+* Preparing Data
 
--Average Occupancy for Each Listing
+* Average Occupancy for Each Listing
 
--Occupancy Rates by Day of the Week
+* Occupancy Rates by Day of the Week
 
 #### 4 - Estimate Revenue for an Investment Property
--Filtering Properties
+* Filtering Properties
 
--Adding Occupancy Rates to Listings
+* Adding Occupancy Rates to Listings
 
--Calculating Revenue
+* Calculating Revenue
 
 #### 5 - What Attributes Are Important for a Vacation Rental?
--Impact of Superhosts
+* Impact of Superhosts
 
--Effect of Instant Booking
+* Effect of Instant Booking
 
--Doorman Services and Review Scores
+* Doorman Services and Review Scores
 
--Impact of Review Ratings on Prices
+* Impact of Review Ratings on Prices
 
 #### 6 - Documentation and Spreadsheet Formatting
--Executive Summary
+* Executive Summary
 
--Documentation of Data Cleaning Steps
+* Documentation of Data Cleaning Steps
 
--Formatting
+* Formatting
 
 
 
@@ -56,8 +56,8 @@ This Read.Me provides an overview of the Manhattan vacation rental market analys
 You’ve been hired by a consulting company to analyze the vacation rental market in the Manhattan borough of New York City for a client interested in investing in properties.
 
 #### 1 - Explore and Filter the Data
-Explore the Data
-  * Download the NYC Airbnb dataset and review the sheets.
+* Explore the Data
+  ** Download the NYC Airbnb dataset and review the sheets.
   
 Prepare Tabs for Documentation
   * Document the data cleaning steps and versions of the final project file.
