@@ -6,8 +6,11 @@ This Read.Me provides an overview of the Manhattan vacation rental market analys
 
 #### Part 1 - Explore and Filter the Data
 -Explore the Data
+
 -Prepare Tabs for Documentation
+
 -Organize the Spreadsheet
+
 -Filter Listings
 
 #### Part 2 - Which Type of Properties Should Be Targeted?
