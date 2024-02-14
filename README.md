@@ -4,34 +4,34 @@ This Read.Me provides an overview of the Manhattan vacation rental market analys
 
 ### Introduction
 
-#### 1 - Explore and Filter the Data
+#### Part 1: Explore and Filter the Data
 * Explore the Data
 * Prepare Tabs for Documentation
 * Organize the Spreadsheet
 * Filter Listings
 
-#### 2 - Which Type of Properties Should Be Targeted?
+#### Part 2: Which Type of Properties Should Be Targeted?
 * Estimating Rental Activity
 * Attractive Neighborhoods
 * Popular Property Sizes
   
-#### 3 - Calculating Occupancy
+#### Part 3: Calculating Occupancy
 * Preparing Data
 * Average Occupancy for Each Listing
 * Occupancy Rates by Day of the Week
   
-#### 4 - Estimate Revenue for an Investment Property
+#### Part 4: Estimate Revenue for an Investment Property
 * Filtering Properties
 * Adding Occupancy Rates to Listings
 * Calculating Revenue
 
-#### 5 - What Attributes Are Important for a Vacation Rental?
+#### Part 5: What Attributes Are Important for a Vacation Rental?
 * Impact of Superhosts
 * Effect of Instant Booking
 * Doorman Services and Review Scores
 * Impact of Review Ratings on Prices
 
-#### 6 - Documentation and Spreadsheet Formatting
+#### Part 6: Documentation and Spreadsheet Formatting
 * Executive Summary
 * Documentation of Data Cleaning Steps
 * Formatting
@@ -41,7 +41,7 @@ This Read.Me provides an overview of the Manhattan vacation rental market analys
 ### Introduction
 You’ve been hired by a consulting company to analyze the vacation rental market in the Manhattan borough of New York City for a client interested in investing in properties. The client is interested in investing in several properties but would like some guidance on what types of properties they should be targeting. The project goal is to analyze data collected on current Airbnb listings to identify useful insights.
 
-#### 1 - Explore and Filter the Data
+#### Part 1: Explore and Filter the Data
 * Explore the Data
   * Download the NYC Airbnb dataset and review the sheets.
 * Prepare Tabs for Documentation
@@ -51,7 +51,7 @@ You’ve been hired by a consulting company to analyze the vacation rental marke
 * Filter Listings
   * Remove irrelevant listings, filter by minimum night requirement, and inactive rentals.
   
-#### 2 - Which Type of Properties Should Be Targeted?
+#### Part 2: Which Type of Properties Should Be Targeted?
 * Estimating Rental Activity
   * Use number of reviews as an estimate for rental frequency.
 * Attractive Neighborhoods
@@ -59,7 +59,7 @@ You’ve been hired by a consulting company to analyze the vacation rental marke
 * Popular Property Sizes
   * Clean bedrooms data and analyze property size preferences.
   
-#### 3 - Calculating Occupancy
+#### Part 3: Calculating Occupancy
 * Preparing Data
   * Convert availability column to numeric values and add day of the week column.
 * Average Occupancy for Each Listing
@@ -67,7 +67,7 @@ You’ve been hired by a consulting company to analyze the vacation rental marke
 * Occupancy Rates by Day of the Week
   * Analyze occupancy rates based on weekdays vs. weekends.
   
-#### 4 - Estimate Revenue for an Investment Property
+#### Part 4: Estimate Revenue for an Investment Property
 * Filtering Properties
   * Filter representative properties based on specific criteria.
 * Adding Occupancy Rates to Listings
@@ -75,10 +75,10 @@ You’ve been hired by a consulting company to analyze the vacation rental marke
 * Calculating Revenue
   * Estimate annual revenue for selected properties.
   
-#### 5 - What Attributes Are Important for a Vacation Rental?
+#### Part 5: What Attributes Are Important for a Vacation Rental?
 * Investigate the impact of various attributes on property performance.
 
-#### 6 - Documentation and Spreadsheet Formatting
+#### Part 6: Documentation and Spreadsheet Formatting
 * Executive Summary
   * Provide an overview of recommendations.
 * Documentation of Data Cleaning Steps
