@@ -15,29 +15,42 @@ This Read.Me provides an overview of the Manhattan vacation rental market analys
 
 #### Part 2 - Which Type of Properties Should Be Targeted?
 -Estimating Rental Activity
+
 -Attractive Neighborhoods
+
 -Popular Property Sizes
 
 #### Part 3 - Calculating Occupancy
 -Preparing Data
+
 -Average Occupancy for Each Listing
+
 -Occupancy Rates by Day of the Week
 
 #### Part 4 - Estimate Revenue for an Investment Property
 -Filtering Properties
+
 -Adding Occupancy Rates to Listings
+
 -Calculating Revenue
 
 #### Part 5 - What Attributes Are Important for a Vacation Rental?
 -Impact of Superhosts
+
 -Effect of Instant Booking
+
 -Doorman Services and Review Scores
+
 -Impact of Review Ratings on Prices
 
 #### Part 6 - Documentation and Spreadsheet Formatting
 -Executive Summary
+
 -Documentation of Data Cleaning Steps
+
 -Formatting
+
+
 
 ### Introduction
 You’ve been hired by a consulting company to analyze the vacation rental market in the Manhattan borough of New York City for a client interested in investing in properties.
