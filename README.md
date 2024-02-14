@@ -57,20 +57,16 @@ You’ve been hired by a consulting company to analyze the vacation rental marke
 
 #### 1 - Explore and Filter the Data
 -Explore the Data
-
-	Download the NYC Airbnb dataset and review the sheets.
+Download the NYC Airbnb dataset and review the sheets.
   
 -Prepare Tabs for Documentation
-
-	Document the data cleaning steps and versions of the final project file.
+Document the data cleaning steps and versions of the final project file.
   
 -Organize the Spreadsheet
-
-	Freeze rows and columns, resize widths, and add filters.
+Freeze rows and columns, resize widths, and add filters.
   
 -Filter Listings
-
-	Remove irrelevant listings, filter by minimum night requirement, and inactive rentals.
+Remove irrelevant listings, filter by minimum night requirement, and inactive rentals.
   
 #### 2 - Which Type of Properties Should Be Targeted?
 -Estimating Rental Activity
