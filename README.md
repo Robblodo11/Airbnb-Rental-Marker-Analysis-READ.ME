@@ -62,7 +62,7 @@ You’ve been hired by a consulting company to analyze the vacation rental marke
 ![Screen Shot 2024-02-16 at 12 41 41 PM](https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/2da909ae-b808-4750-bec6-e193ae75be17)
 * Popular Property Sizes
   * Cleaned bedrooms data and analyzed property size preferences
-  
+![Screen Shot 2024-02-16 at 12 44 20 PM](https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/1a30b175-31e5-4f8a-a5ae-3c7cc9a99c93)
 #### Part 3: Calculating Occupancy
 * Preparing Data
   * Converted availability column to numeric values and added day of the week column
