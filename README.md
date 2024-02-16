@@ -1,5 +1,6 @@
 # Airbnb-Rental-Market-Analysis-READ.ME
 This Read.Me provides an overview of the Manhattan vacation rental market analysis project, outlining key steps and objectives for each part of the analysis. For detailed instructions and insights, refer to the corresponding sections in the project documentation.
+https://tinyurl.com/Airbnb-Rental-Market-Project
 ## Table of Contents
 
 ### Introduction
