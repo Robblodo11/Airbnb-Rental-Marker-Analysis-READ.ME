@@ -80,7 +80,7 @@ You’ve been hired by a consulting company to analyze the vacation rental marke
   * Estimated annual revenue for selected properties by mulitplying 365 days for the year times the average price times the occupancy rate.
 
 #### Part 5: What Attributes Are Important for a Vacation Rental?
-* Investigated the impact of various attributes on property performance like can superhosts charge higher prices and do hosts who that offer instant booking have higher occupancy rates?
+* Investigated the impact of various attributes on property performance like do buildings with doormen get better review scores for check-in? and do hosts who that offer instant booking have higher occupancy rates?
 ![Screen Shot 2024-02-16 at 12 48 19 PM](https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/390be496-cf1f-4476-a1e6-f54786e43668)
 
 ![Screen Shot 2024-02-16 at 12 49 18 PM](https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/2f5981b5-775d-4d3e-b0a0-4602a7f3f2a6)
