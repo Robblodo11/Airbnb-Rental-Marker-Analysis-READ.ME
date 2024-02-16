@@ -59,6 +59,7 @@ You’ve been hired by a consulting company to analyze the vacation rental marke
   * Used number of reviews as an estimate for rental frequency
 * Attractive Neighborhoods
   * Cleaned neighborhood labels and determined top 10 most poular neighborhoods for vacation rentals based on highest # of reviews
+![Screen Shot 2024-02-16 at 12 41 41 PM](https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/2da909ae-b808-4750-bec6-e193ae75be17)
 * Popular Property Sizes
   * Cleaned bedrooms data and analyzed property size preferences
   
