@@ -52,13 +52,13 @@ You’ve been hired by a consulting company to analyze the vacation rental marke
 * Organize the Spreadsheet
   * Freezed rows and columns, resized widths, and added filters
 * Filter Listings
-  * Removed irrelevant listings, filtered by minimum night requirement, and inactive rentals
+  * Filtered out irrelevant listings such as listings that have never been rented (inactive rentals), and rentals with a minimum night required of 8 days or higher
   
 #### Part 2: Which Type of Properties Should Be Targeted?
 * Estimating Rental Activity
   * Used number of reviews as an estimate for rental frequency
 * Attractive Neighborhoods
-  * Cleaned neighborhood labels and determined top 10 neighborhoods for vacation rentals
+  * Cleaned neighborhood labels and determined top 10 most poular neighborhoods for vacation rentals based on highest # of reviews
 * Popular Property Sizes
   * Cleaned bedrooms data and analyzed property size preferences
   
@@ -92,7 +92,7 @@ You’ve been hired by a consulting company to analyze the vacation rental marke
 #### Conclusion
 * Amongst all vacation rentals in the top 10 neighborhoods in Manhattan, 1 bedroom apartments have the largest sum of reviews, or amount of times the apartment has been rented, with a grand total of 16,691 reviews (estimated # of times listing was rented) Refer to Most Popular # of Bedrooms in top 10 Neighborhoods
 * Recommend to investor to Invest in properties with 1 bedroom in Midtown. The estimated annual revenue from midtown properties with 1 bedroom is $99,912. In order to calculate estimated annual revenue, you need to mulitply 365 days for the year times the average price times the occupancy rate. Refer to Average Price & Occupancy Rate Pivot Table
-Buildings with Doormen do not show a difference in Check in ratings when compared to buidlings without doormen. When the 2 are compared, both show an average rating of 4.9 stars whether the building has a doorman or not. Refer to Building Staff vs Checkin Ratings Pivot Table
+* Buildings with Doormen do not show a difference in Check in ratings when compared to buidlings without doormen. When the 2 are compared, both show an average rating of 4.9 stars whether the building has a doorman or not. Refer to Building Staff vs Checkin Ratings Pivot Table
 * Hosts can and do charge higher prices on average for listings with higher review ratings. Refer to Review Scores Rating vs Average Price Pivot Table
 
 
