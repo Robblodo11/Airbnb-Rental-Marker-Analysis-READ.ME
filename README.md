@@ -37,6 +37,8 @@ https://tinyurl.com/Airbnb-Rental-Market-Project
 * Documentation of Data Cleaning Steps
 * Formatting
 
+#### Conclusion
+
 
 
 ### Introduction
@@ -44,48 +46,54 @@ You’ve been hired by a consulting company to analyze the vacation rental marke
 
 #### Part 1: Explore and Filter the Data
 * Explore the Data
-  * Download the NYC Airbnb dataset and review the sheets.
+  * Downloaded the NYC Airbnb dataset and review the sheets
 * Prepare Tabs for Documentation
-  * Document the data cleaning steps and versions of the final project file.
+  * Documented the data cleaning steps and versions of the final project file
 * Organize the Spreadsheet
-  * Freeze rows and columns, resize widths, and add filters.
+  * Freezed rows and columns, resized widths, and added filters
 * Filter Listings
-  * Remove irrelevant listings, filter by minimum night requirement, and inactive rentals.
+  * Removed irrelevant listings, filtered by minimum night requirement, and inactive rentals
   
 #### Part 2: Which Type of Properties Should Be Targeted?
 * Estimating Rental Activity
-  * Use number of reviews as an estimate for rental frequency.
+  * Used number of reviews as an estimate for rental frequency
 * Attractive Neighborhoods
-  * Clean neighborhood labels and determine top 10 neighborhoods for vacation rentals.
+  * Cleaned neighborhood labels and determined top 10 neighborhoods for vacation rentals
 * Popular Property Sizes
-  * Clean bedrooms data and analyze property size preferences.
+  * Cleaned bedrooms data and analyzed property size preferences
   
 #### Part 3: Calculating Occupancy
 * Preparing Data
-  * Convert availability column to numeric values and add day of the week column.
+  * Converted availability column to numeric values and added day of the week column
 * Average Occupancy for Each Listing
-  * Calculate average occupancy rates for each listing.
+  * Calculated average occupancy rates for each listing by determining the average of the occupied column
 * Occupancy Rates by Day of the Week
-  * Analyze occupancy rates based on weekdays vs. weekends.
+  * Analyzed occupancy rates based on weekdays vs. weekends
   
 #### Part 4: Estimate Revenue for an Investment Property
 * Filtering Properties
-  * Filter representative properties based on specific criteria.
+  * Filtered representative properties based on specific criteria
 * Adding Occupancy Rates to Listings
-  * Incorporate average occupancy rates into the listings.
+  * Incorporated average occupancy rates into the listings by using a pivot table
 * Calculating Revenue
-  * Estimate annual revenue for selected properties.
+  * Estimated annual revenue for selected properties by mulitplying 365 days for the year times the average price times the occupancy rate.
   
 #### Part 5: What Attributes Are Important for a Vacation Rental?
-* Investigate the impact of various attributes on property performance.
+* Investigated the impact of various attributes on property performance like can superhosts charge higher prices and do hosts who that offer instant booking have higher occupancy rates?
 
 #### Part 6: Documentation and Spreadsheet Formatting
 * Executive Summary
-  * Provide an overview of recommendations.
+  * Provided an overview of recommendations.
 * Documentation of Data Cleaning Steps
-  * Document assumptions and steps taken for data cleaning.
+  * Documented assumptions and steps taken for data cleaning.
 * Formatting
-  * Enhance spreadsheet readability with formatting techniques.
+  * Enhanced spreadsheet readability with formatting techniques.
+ 
+#### Conclusion
+* Amongst all vacation rentals in the top 10 neighborhoods in Manhattan, 1 bedroom apartments have the largest sum of reviews, or amount of times the apartment has been rented, with a grand total of 16,691 reviews (estimated # of times listing was rented) Refer to Most Popular # of Bedrooms in top 10 Neighborhoods
+* Recommend to investor to Invest in properties with 1 bedroom in Midtown. The estimated annual revenue from midtown properties with 1 bedroom is $99,912. In order to calculate estimated annual revenue, you need to mulitply 365 days for the year times the average price times the occupancy rate. Refer to Average Price & Occupancy Rate Pivot Table
+Buildings with Doormen do not show a difference in Check in ratings when compared to buidlings without doormen. When the 2 are compared, both show an average rating of 4.9 stars whether the building has a doorman or not. Refer to Building Staff vs Checkin Ratings Pivot Table
+* Hosts can and do charge higher prices on average for listings with higher review ratings. Refer to Review Scores Rating vs Average Price Pivot Table
 
 
 
