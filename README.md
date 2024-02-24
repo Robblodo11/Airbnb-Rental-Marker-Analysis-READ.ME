@@ -47,7 +47,7 @@ This Google Sheets project requires deployment through Google Workspace (formerl
 
 #### Conclusion
 
-
+----------------------------------
 
 ### Introduction
 You’ve been hired by a consulting company to analyze the vacation rental market in the Manhattan borough of New York City for a client interested in investing in properties. The client is interested in investing in several properties but would like some guidance on what types of properties they should be targeting. The project goal is to analyze data collected on current Airbnb listings to identify useful insights.
