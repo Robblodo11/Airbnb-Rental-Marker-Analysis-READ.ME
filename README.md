@@ -1,6 +1,9 @@
 # Airbnb-Rental-Market-Analysis-READ.ME
 This Read.Me provides an overview of the Manhattan vacation rental market analysis project, outlining key steps and objectives for each part of the analysis. For detailed instructions and insights, refer to the corresponding sections in the project documentation.
 
+## Deployment instructions
+This Google Sheets project requires deployment through Google Workspace (formerly G Suite) and supports all major web browsers for access. Essential system requirements include the latest versions of Google Chrome, Mozilla Firefox, Safari, or Microsoft Edge. JavaScript must be enabled, and Google Sheets API must be enabled in the Google Cloud Console for advanced functionality.
+
 ## Demo Video
 * https://www.loom.com/share/5f1efa7127f54060bc5e3b3a637391ae?sid=3c56dbc2-4080-46b0-b578-a0883e7fefe5
 
